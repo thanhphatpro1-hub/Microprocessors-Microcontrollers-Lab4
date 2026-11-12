@@ -1,0 +1,12 @@
+scheduler.c:34:13:SCH_Clear_Slot	16	static
+scheduler.c:44:13:SCH_Shift_Left	32	static
+scheduler.c:54:17:SCH_Generate_Task_ID	16	static
+scheduler.c:77:16:SCH_Insert_Task_To_Delta_Queue	48	static
+scheduler.c:122:13:SCH_Apply_Overdue_Ticks	4	static
+scheduler.c:141:6:SCH_Init	16	static
+scheduler.c:155:6:SCH_Update	4	static
+scheduler.c:169:10:SCH_Add_Task	64	static,ignoring_inline_asm
+scheduler.c:195:6:SCH_Dispatch_Tasks	40	static,ignoring_inline_asm
+scheduler.c:231:9:SCH_Delete_Task	40	static,ignoring_inline_asm
+scheduler.c:269:6:SCH_Report_Status	4	static
+scheduler.c:295:6:SCH_Go_To_Sleep	8	static
